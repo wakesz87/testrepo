@@ -5,5 +5,8 @@ kiwi
 füge
 ananász
 paprika
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> ce1e60d472f1da37d6088628b1c021e1115bfcbc
